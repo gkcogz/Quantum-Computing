@@ -1,1 +1,2 @@
-Quantum Programming by Aurel Gabris
+Quantum Programming by Aurel Gabris.
+
